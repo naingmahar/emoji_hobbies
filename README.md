@@ -29,3 +29,18 @@ import { searchHobbies } from '@nmh/emoji_hobbies'
 console.warn(searchHobbies('music'))
 
 ---
+
+### Example Response
+
+---
+
+        [
+            { text: 'Collecting Music Albums', emoji: '💿' },
+            { text: 'Compose Music', emoji: '🎼' },
+            { text: 'Music', emoji: '🎵' },
+            { text: 'Listening to Music', emoji: '🎧' },
+            { text: 'Playing musical instruments', emoji: '🎵' },
+            { text: 'Writing Music', emoji: '🎵' }
+        ]
+
+---
