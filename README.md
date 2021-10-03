@@ -7,14 +7,14 @@ Support , Js and Ts .
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ npm install npm i @nmh/emoji_hobbies --save
+$ npm install npm i @nmh/emoji-hobbies --save
 ```
 
 ### Js Example!
 
 ---
 
-const { searchHobbies } = require("@nmh/emoji_hobbies").default;
+const { searchHobbies } = require("@nmh/emoji-hobbies");
 
 console.warn(searchHobbies('music'))
 

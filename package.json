@@ -1,11 +1,10 @@
 {
-  "name": "emoji_hobbies",
+  "name": "@nmh/emoji-hobbies",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc --project ./"
   },
   "devDependencies": {
@@ -14,7 +13,15 @@
   },
   "author": "Naing Mahar",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naingmahar/emoji_hobbies.git"
+  },
   "engines": {
     "node": "8"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/naingmahar/emoji_hobbies/issues"
+  },
+  "homepage": "https://github.com/naingmahar/emoji_hobbies#readme"
 }
