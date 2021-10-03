@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES6",
+        // "lib": ["ES5","ES2015","ES6","ES2016"],
+        "declaration": true,
+        "rootDir": "./",
+        "outDir": "./dist",
+        "esModuleInterop": true,
+        "noImplicitAny": false
+    }
+}
+  
